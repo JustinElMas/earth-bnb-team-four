@@ -1,11 +1,11 @@
 # earth-bnb-team-four
 
 #Nombre de los desarrolladores: 
-*Yulisa
-*Justin 
-*Sofía 
-*Jorge 
-*Bruno 
+* Yulisa
+* Justin 
+* Sofía 
+* Jorge 
+* Bruno 
 
 <br/>
 
